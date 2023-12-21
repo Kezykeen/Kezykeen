@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kezykeen
-- 👀 I’m interested in Web develoepment and other Frontend Technologies
+- 👀 I’m fascinated about Frontend Technologies
 - 🌱 I’m currently learning React-native.
 - 💞️ I’m looking to collaborate on any Frontend technology with particular preference for ReactJs.
 - 📫 How to reach me:
